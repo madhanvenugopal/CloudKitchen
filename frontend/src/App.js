@@ -1,4 +1,4 @@
-import SplitScreen from "./Hero";
+import SplitScreen from "./SplitScreen";
 import "./App.css";
 
 function App() {
