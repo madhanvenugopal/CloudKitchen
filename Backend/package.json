@@ -3,9 +3,20 @@
   "version": "1.0.0",
   "description": "Cloud Kitchen Backend 2022",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "madhanvenugopal",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "@adminjs/express": "^4.1.0",
+    "@adminjs/mongoose": "^2.0.2",
+    "admin-bro": "^4.0.1",
+    "admin-bro-expressjs": "^2.1.1",
+    "adminjs": "^5.7.3",
+    "express": "^4.17.3",
+    "express-formidable": "^1.2.0"
+  }
 }
